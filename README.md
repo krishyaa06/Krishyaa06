@@ -60,6 +60,13 @@ const krishyaa = {
   <img src="https://raw.githubusercontent.com/krishyaa06/prism-protocol-calculator/main/assets/logo.png" width="180" alt="Prism Protocol" />
 </td>
 </tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+
+## 🚀 Featured Projects
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
@@ -112,17 +119,10 @@ AI **code reviewer CLI**: bugs, security issues and smells, **score 0-100**, git
 
 <a href="https://github.com/krishyaa06/prism-codelens"><img src="https://img.shields.io/badge/View%20Code%20→-00B386?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<a href="https://github.com/krishyaa06/prism-codelens"><img src="https://raw.githubusercontent.com/krishyaa06/prism-codelens/main/assets/screenshots/demo.gif" width="260" /></a>
+<a href="https://github.com/krishyaa06/prism-codelens"><img src="https://raw.githubusercontent.com/krishyaa06/prism-codelens/main/assets/screenshots/demo.png" width="260" /></a>
 
 </td>
 </tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-
-## 🚀 Featured Projects
-
-<table>
 <tr>
 <td width="50%" valign="top">
 
