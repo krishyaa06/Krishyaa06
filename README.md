@@ -109,10 +109,6 @@ Live crypto market tracker with an ambient animated canvas and a futuristic UI.
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=krishyaa06&bg_color=0d1117&color=00D4FF&line=6C63FF&point=ffffff&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribution%20Graph" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishyaa06/Krishyaa06/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishyaa06/Krishyaa06/output/snake.svg" />
