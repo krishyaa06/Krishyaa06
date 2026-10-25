@@ -77,15 +77,23 @@ Cyberpunk-style web calculator with **Standard**, **Scientific**, **Programmer (
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+<a href="https://krishyaa06.github.io/prism-protocol-calculator/"><img src="https://img.shields.io/badge/Live%20Demo%20→-00d2ff?style=for-the-badge&logo=githubpages&logoColor=black" /></a>
+
+<a href="https://github.com/krishyaa06/prism-protocol-calculator"><img src="https://raw.githubusercontent.com/krishyaa06/prism-protocol-calculator/main/assets/screenshots/demo.gif" width="200" /></a>
+
 </td>
 <td width="50%" valign="top">
 
 ### 📈 [Quantum Tracker](https://github.com/krishyaa06/prism-crypto-tracker)
-Live crypto market tracker with an ambient animated canvas and a futuristic UI.
+Live crypto dashboard for the top 25 coins with a private BTC/ETH/SOL portfolio, auto-refresh and a particle-network UI.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+<a href="https://krishyaa06.github.io/prism-crypto-tracker/"><img src="https://img.shields.io/badge/Live%20Demo%20→-00ffaa?style=for-the-badge&logo=githubpages&logoColor=black" /></a>
+
+<a href="https://github.com/krishyaa06/prism-crypto-tracker"><img src="https://raw.githubusercontent.com/krishyaa06/prism-crypto-tracker/main/assets/screenshots/demo.gif" width="220" /></a>
 
 </td>
 </tr>
