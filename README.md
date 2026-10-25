@@ -60,6 +60,62 @@ const krishyaa = {
   <img src="https://raw.githubusercontent.com/krishyaa06/prism-protocol-calculator/main/assets/logo.png" width="180" alt="Prism Protocol" />
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [Prism Sentinel](https://github.com/krishyaa06/prism-sentinel)
+All-in-one community bot: **moderation**, warnings, **leveling with rank cards**, tickets, polls, welcome messages and server stats.
+
+![discord.js](https://img.shields.io/badge/discord.js-v14-5865F2?style=flat-square&logo=discord&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+<a href="https://github.com/krishyaa06/prism-sentinel"><img src="https://img.shields.io/badge/View%20Code%20→-6C63FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<a href="https://github.com/krishyaa06/prism-sentinel"><img src="https://raw.githubusercontent.com/krishyaa06/prism-sentinel/main/assets/screenshots/demo.gif" width="260" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### ⚔️ [Prism Arena](https://github.com/krishyaa06/prism-arena)
+Hackathon bot: **events, teams, submissions, judge scoring**, live leaderboard, reminders, auto winners and **coding challenges**.
+
+![discord.js](https://img.shields.io/badge/discord.js-v14-5865F2?style=flat-square&logo=discord&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+<a href="https://github.com/krishyaa06/prism-arena"><img src="https://img.shields.io/badge/View%20Code%20→-FF5EA8?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<a href="https://github.com/krishyaa06/prism-arena"><img src="https://raw.githubusercontent.com/krishyaa06/prism-arena/main/assets/screenshots/demo.gif" width="260" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✨ [Prism Idea Forge](https://github.com/krishyaa06/prism-idea-forge)
+AI hackathon **idea generator**: problem, solution, stack, hour-by-hour **MVP plan**, pitch and README. Gemini, Groq, OpenAI or offline.
+
+![AI](https://img.shields.io/badge/AI-Gemini%20%7C%20Groq%20%7C%20OpenAI-6C63FF?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+
+<a href="https://krishyaa06.github.io/prism-idea-forge/"><img src="https://img.shields.io/badge/Live%20Demo%20→-6C63FF?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+
+<a href="https://github.com/krishyaa06/prism-idea-forge"><img src="https://raw.githubusercontent.com/krishyaa06/prism-idea-forge/main/assets/screenshots/demo.gif" width="260" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 [Prism CodeLens](https://github.com/krishyaa06/prism-codelens)
+AI **code reviewer CLI**: bugs, security issues and smells, **score 0-100**, git diff mode, Markdown reports and CI gate. Works offline.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![deps](https://img.shields.io/badge/dependencies-0-00FFAA?style=flat-square)
+
+<a href="https://github.com/krishyaa06/prism-codelens"><img src="https://img.shields.io/badge/View%20Code%20→-00B386?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<a href="https://github.com/krishyaa06/prism-codelens"><img src="https://raw.githubusercontent.com/krishyaa06/prism-codelens/main/assets/screenshots/demo.gif" width="260" /></a>
+
+</td>
+</tr>
 </table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
