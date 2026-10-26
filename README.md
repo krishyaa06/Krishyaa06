@@ -102,7 +102,7 @@ const krishyaa = {
 <td colspan="2" valign="top">
 
 ### ◇ [Prism AI](https://github.com/krishyaa06/prism-ai)
-Developer-first **AI workspace**: animated landing page, document dashboard and a built-in **AI assistant** powered by OpenAI.
+Developer-first **AI workspace**: Markdown docs, ideas, ⌘K search and a **streaming AI assistant** (Groq, Gemini, OpenAI). Works offline in demo mode.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
