@@ -26,6 +26,7 @@ const krishyaa = {
   location:  "Chandrapur, India 🇮🇳",
   role:      ["Founder @ Prism Protocol", "Self-taught Builder"],
   building:  ["Discord Bots", "AI Tools", "Web Experiences"],
+  stack:     ["JavaScript", "TypeScript", "Node.js", "Next.js"],
   community: "Hackathons • Ideathons • Coding Challenges",
   motto:     "Build. Create. Compete.",
 };
@@ -97,6 +98,21 @@ const krishyaa = {
 ## 🚀 Featured Projects
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+
+### ◇ [Prism AI](https://github.com/krishyaa06/prism-ai)
+Developer-first **AI workspace**: animated landing page, document dashboard and a built-in **AI assistant** powered by OpenAI.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+<a href="https://prism-ai-umber.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo%20→-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/krishyaa06/prism-ai"><img src="https://img.shields.io/badge/View%20Code%20→-00D4FF?style=for-the-badge&logo=github&logoColor=black" /></a>
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -190,7 +206,7 @@ Live crypto dashboard for the top 25 coins with a private BTC/ETH/SOL portfolio,
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,python,discord,git,github,vscode,figma,linux,vercel&perline=12&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs,python,discord,git,github,vscode,figma,linux,vercel&perline=8&theme=dark" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
