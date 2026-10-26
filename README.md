@@ -203,6 +203,112 @@ Live crypto dashboard for the top 25 coins with a private BTC/ETH/SOL portfolio,
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
+## 🧰 Prism Toolbox — 50 Open-Source Tools
+
+<p align="center"><b>50 small, polished tools for developers and vibe coders.</b> Every web tool runs fully in the browser on GitHub Pages; every CLI has zero dependencies, tests and CI.</p>
+
+<details open>
+<summary><b>🧪 Dev Tools</b> · 16 tools</summary>
+
+Browser-based utilities — 100% local, no sign-up
+
+| Tool | What it does | Live |
+| --- | --- | --- |
+| 🛰️ [Prism API Tester](https://github.com/krishyaa06/prism-api-tester) | Lightweight Postman in your browser | [Open →](https://krishyaa06.github.io/prism-api-tester/) |
+| ✍️ [Prism Commit Crafter](https://github.com/krishyaa06/prism-commit-crafter) | Conventional Commits · Lint · Semver | [Open →](https://krishyaa06.github.io/prism-commit-crafter/) |
+| ⏱️ [Prism Cron Builder](https://github.com/krishyaa06/prism-cron-builder) | Build · Explain · Preview next runs | [Open →](https://krishyaa06.github.io/prism-cron-builder/) |
+| 🔀 [Prism Diff Viewer](https://github.com/krishyaa06/prism-diff-viewer) | Split · Unified · Word-level · Patch | [Open →](https://krishyaa06.github.io/prism-diff-viewer/) |
+| 🔣 [Prism Encode Kit](https://github.com/krishyaa06/prism-encode-kit) | Base64 · URL · Hex · HTML · SHA-256 | [Open →](https://krishyaa06.github.io/prism-encode-kit/) |
+| 🔐 [Prism Env Diff](https://github.com/krishyaa06/prism-env-diff) | Compare · Lint · Generate .env.example | [Open →](https://krishyaa06.github.io/prism-env-diff/) |
+| 🙈 [Prism Gitignore Builder](https://github.com/krishyaa06/prism-gitignore-builder) | 31 templates · Merge · Test paths | [Open →](https://krishyaa06.github.io/prism-gitignore-builder/) |
+| 🧩 [Prism JSON Studio](https://github.com/krishyaa06/prism-json-studio) | Format · Validate · Query · Convert | [Open →](https://krishyaa06.github.io/prism-json-studio/) |
+| 🔐 [Prism JWT Inspector](https://github.com/krishyaa06/prism-jwt-inspector) | Decode · Verify · Sign · 100% local | [Open →](https://krishyaa06.github.io/prism-jwt-inspector/) |
+| ⌨️ [Prism Keycode](https://github.com/krishyaa06/prism-keycode) | Keyboard event inspector + snippet generator | [Open →](https://krishyaa06.github.io/prism-keycode/) |
+| 📊 [Prism Markdown Table](https://github.com/krishyaa06/prism-markdown-table) | CSV · Sheets · JSON ↔ Markdown | [Open →](https://krishyaa06.github.io/prism-markdown-table/) |
+| 📝 [Prism README Forge](https://github.com/krishyaa06/prism-readme-forge) | Form in · Beautiful README out | [Open →](https://krishyaa06.github.io/prism-readme-forge/) |
+| 🧪 [Prism Regex Lab](https://github.com/krishyaa06/prism-regex-lab) | Test · Highlight · Explain · Replace | [Open →](https://krishyaa06.github.io/prism-regex-lab/) |
+| 📦 [Prism Snippet Box](https://github.com/krishyaa06/prism-snippet-box) | Snippet manager → VS Code snippets | [Open →](https://krishyaa06.github.io/prism-snippet-box/) |
+| 🕒 [Prism Timestamp Tool](https://github.com/krishyaa06/prism-timestamp-tool) | Unix ⇄ Date · World clock · Discord tags | [Open →](https://krishyaa06.github.io/prism-timestamp-tool/) |
+| 🆔 [Prism UUID Lab](https://github.com/krishyaa06/prism-uuid-lab) | UUID v4 / v7 · ULID · Nano ID · Passwords | [Open →](https://krishyaa06.github.io/prism-uuid-lab/) |
+
+</details>
+
+<details>
+<summary><b>🎨 Design Tools</b> · 6 tools</summary>
+
+CSS & UI generators with copy-ready code
+
+| Tool | What it does | Live |
+| --- | --- | --- |
+| 🎨 [Prism Color Forge](https://github.com/krishyaa06/prism-color-forge) | Convert · Contrast · Scales · Harmonies | [Open →](https://krishyaa06.github.io/prism-color-forge/) |
+| 📐 [Prism Flex & Grid Lab](https://github.com/krishyaa06/prism-flex-grid) | Visual layout playground · CSS + Tailwind | [Open →](https://krishyaa06.github.io/prism-flex-grid/) |
+| 🌈 [Prism Gradient Lab](https://github.com/krishyaa06/prism-gradient-lab) | Linear · Radial · Conic · CSS & Tailwind | [Open →](https://krishyaa06.github.io/prism-gradient-lab/) |
+| 🌗 [Prism Shadow Studio](https://github.com/krishyaa06/prism-shadow-studio) | Box shadow · Smooth shadow · Glassmorphism | [Open →](https://krishyaa06.github.io/prism-shadow-studio/) |
+| 🪶 [Prism SVG Optimizer](https://github.com/krishyaa06/prism-svg-optimizer) | Shrink · Preview · Export as JSX | [Open →](https://krishyaa06.github.io/prism-svg-optimizer/) |
+| 🧩 [Prism UI Snippets](https://github.com/krishyaa06/prism-ui-snippets) | Copy-paste HTML/CSS components | [Open →](https://krishyaa06.github.io/prism-ui-snippets/) |
+
+</details>
+
+<details>
+<summary><b>✨ Vibe Coding</b> · 7 tools</summary>
+
+For building with AI agents, prompts and fast launches
+
+| Tool | What it does | Live |
+| --- | --- | --- |
+| 📜 [Prism Agent Rules](https://github.com/krishyaa06/prism-agent-rules) | Cursor · AGENTS.md · CLAUDE.md · Copilot | [Open →](https://krishyaa06.github.io/prism-agent-rules/) |
+| 🔤 [Prism ASCII Banner](https://github.com/krishyaa06/prism-ascii-banner) | ASCII / block-letter banner generator | [Open →](https://krishyaa06.github.io/prism-ascii-banner/) |
+| 📣 [Prism Devlog](https://github.com/krishyaa06/prism-devlog) | Build-in-public post generator | [Open →](https://krishyaa06.github.io/prism-devlog/) |
+| 🛬 [Prism Landing Kit](https://github.com/krishyaa06/prism-landing-kit) | Form → single-file landing page | [Open →](https://krishyaa06.github.io/prism-landing-kit/) |
+| 🗝️ [Prism Prompt Vault](https://github.com/krishyaa06/prism-prompt-vault) | Prompt library with {{variables}} | [Open →](https://krishyaa06.github.io/prism-prompt-vault/) |
+| 🧮 [Prism Token Counter](https://github.com/krishyaa06/prism-token-counter) | Token estimate · cost · context fit | [Open →](https://krishyaa06.github.io/prism-token-counter/) |
+| 🧭 [Prism Vibe Planner](https://github.com/krishyaa06/prism-vibe-planner) | Idea → PRD → tasks → agent prompt | [Open →](https://krishyaa06.github.io/prism-vibe-planner/) |
+
+</details>
+
+<details>
+<summary><b>⏱️ Productivity & Community</b> · 2 tools</summary>
+
+For focus sessions, hackathons and events
+
+| Tool | What it does | Live |
+| --- | --- | --- |
+| 🍅 [Prism Focus Flow](https://github.com/krishyaa06/prism-focus-flow) | Pomodoro timer with stats & streaks | [Open →](https://krishyaa06.github.io/prism-focus-flow/) |
+| ⏱️ [Prism Hackathon Timer](https://github.com/krishyaa06/prism-hackathon-timer) | Fullscreen countdown + live schedule | [Open →](https://krishyaa06.github.io/prism-hackathon-timer/) |
+
+</details>
+
+<details open>
+<summary><b>⌨️ CLI Tools</b> · 19 tools</summary>
+
+Zero-dependency Node.js CLIs — run with `npx github:krishyaa06/<repo>`
+
+| Tool | What it does | Command |
+| --- | --- | --- |
+| 🧹 [Prism Branch Cleaner](https://github.com/krishyaa06/prism-branch-cleaner) | Clean up merged git branches | `branchclean` |
+| 📜 [Prism Changelog](https://github.com/krishyaa06/prism-changelog) | Changelogs from Conventional Commits | `changelog` |
+| 🧳 [Prism Context Pack](https://github.com/krishyaa06/prism-context-pack) | Repo → one LLM-ready prompt | `ctxpack` |
+| 🧰 [Prism Create CLI](https://github.com/krishyaa06/prism-create-cli) | Scaffold a zero-dep Node CLI | `create-prism-cli` |
+| 🩺 [Prism Dep Doctor](https://github.com/krishyaa06/prism-dep-doctor) | Find missing & unused npm deps | `depdoc` |
+| 🔐 [Prism Env Check](https://github.com/krishyaa06/prism-env-check) | Validate .env vs .env.example | `envcheck` |
+| 🌳 [Prism Folder Tree](https://github.com/krishyaa06/prism-folder-tree) | Pretty project trees for READMEs | `ftree` |
+| 📊 [Prism Git Stats](https://github.com/krishyaa06/prism-git-stats) | Repo history in one screen | `gitstats` |
+| 📜 [Prism License Gen](https://github.com/krishyaa06/prism-license-gen) | Add a LICENSE in one command | `licensegen` |
+| ⚡ [Prism Live Serve](https://github.com/krishyaa06/prism-live-serve) | Static server + live reload | `liveserve` |
+| 📊 [Prism LOC](https://github.com/krishyaa06/prism-loc) | Lines of code, by language | `loc` |
+| 🧪 [Prism Mock API](https://github.com/krishyaa06/prism-mock-api) | Fake REST API from a JSON file | `mockapi` |
+| 🏃 [Prism npm Scripts](https://github.com/krishyaa06/prism-npm-scripts) | Fuzzy-run package.json scripts | `nr` |
+| 🔌 [Prism Port Killer](https://github.com/krishyaa06/prism-port-killer) | Free busy ports in one command | `portkill` |
+| 📝 [Prism README Lint](https://github.com/krishyaa06/prism-readme-lint) | Lint & grade your README | `readmelint` |
+| 🔑 [Prism Secret Scan](https://github.com/krishyaa06/prism-secret-scan) | Find leaked keys in code & history | `secretscan` |
+| 📦 [Prism Size Check](https://github.com/krishyaa06/prism-size-check) | Bundle size budgets for CI | `sizecheck` |
+| 📌 [Prism TODO Scanner](https://github.com/krishyaa06/prism-todo-scanner) | Find every TODO / FIXME | `todos` |
+| 🛡️ [Prism Vibe Guard](https://github.com/krishyaa06/prism-vibe-guard) | Lint AI leftovers in your diff | `vibeguard` |
+
+</details>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+
 ## 🛠️ Tech Stack
 
 <p align="center">
