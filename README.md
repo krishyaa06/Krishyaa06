@@ -203,6 +203,40 @@ Live crypto dashboard for the top 25 coins with a private BTC/ETH/SOL portfolio,
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
+## ⚙️ Prism Systems — 12 Production-Grade Systems
+
+<p align="center"><b>12 open-source reference implementations of large-scale infrastructure.</b> Each one ships a real zero-dependency engine, a CLI, an HTTP API, tests and CI, and an animated live simulator on GitHub Pages.</p>
+
+<details open>
+<summary><b>Cloud-Native & Developer Infrastructure</b> · 7 systems</summary>
+
+| # | System | What it does | Live simulator |
+| --- | --- | --- | --- |
+| 01 | 🧭 [Prism DevPortal](https://github.com/krishyaa06/prism-devportal) | Internal Developer Platform: catalog, golden paths, releases, SLO auto-rollback | [Open →](https://krishyaa06.github.io/prism-devportal/) |
+| 02 | 🌊 [Prism Flow](https://github.com/krishyaa06/prism-flow) | DAG workflow engine with retries, timeouts, crash recovery and event replay | [Open →](https://krishyaa06.github.io/prism-flow/) |
+| 03 | 🚩 [Prism Flags](https://github.com/krishyaa06/prism-flags) | Multi-region feature flags with rules, sticky rollouts and audit chain | [Open →](https://krishyaa06.github.io/prism-flags/) |
+| 04 | ⚡ [Prism FaaS](https://github.com/krishyaa06/prism-faas) | Serverless orchestrator: MicroVM pools, snapshots, pre-warm, quotas | [Open →](https://krishyaa06.github.io/prism-faas/) |
+| 05 | 📜 [Prism Logs](https://github.com/krishyaa06/prism-logs) | Log aggregation with redaction, bloom-pruned chunks and LogQL | [Open →](https://krishyaa06.github.io/prism-logs/) |
+| 06 | 🧊 [Prism Objstore](https://github.com/krishyaa06/prism-objstore) | Erasure-coded, S3-compatible object storage with self-healing | [Open →](https://krishyaa06.github.io/prism-objstore/) |
+| 07 | 🛡 [Prism ZTNA](https://github.com/krishyaa06/prism-ztna) | Identity- and device-aware access proxy with a policy language | [Open →](https://krishyaa06.github.io/prism-ztna/) |
+
+</details>
+
+<details>
+<summary><b>FinTech & Banking</b> · 5 systems</summary>
+
+| # | System | What it does | Live simulator |
+| --- | --- | --- | --- |
+| 08 | 📈 [Prism Matching Engine](https://github.com/krishyaa06/prism-matching-engine) | Price-time CLOB with FIX 4.4, ledger and deterministic replay | [Open →](https://krishyaa06.github.io/prism-matching-engine/) |
+| 09 | 🛡 [Prism Fraud](https://github.com/krishyaa06/prism-fraud) | Real-time fraud scoring with rules, velocity features and an online model | [Open →](https://krishyaa06.github.io/prism-fraud/) |
+| 10 | 📒 [Prism Ledger](https://github.com/krishyaa06/prism-ledger) | Double-entry ledger with idempotency, holds, hash-chain audit and reconciliation | [Open →](https://krishyaa06.github.io/prism-ledger/) |
+| 11 | 📈 [Prism Backtest](https://github.com/krishyaa06/prism-backtest) | Event-driven backtesting with Indian costs, risk controls and overfitting checks | [Open →](https://krishyaa06.github.io/prism-backtest/) |
+| 12 | 🔀 [Prism PayRoute](https://github.com/krishyaa06/prism-payroute) | Smart PSP routing with breakers, safe failover, compliance, FX and chargebacks | [Open →](https://krishyaa06.github.io/prism-payroute/) |
+
+</details>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+
 ## 🧰 Prism Toolbox — 50 Open-Source Tools
 
 <p align="center"><b>50 small, polished tools for developers and vibe coders.</b> Every web tool runs fully in the browser on GitHub Pages; every CLI has zero dependencies, tests and CI.</p>
