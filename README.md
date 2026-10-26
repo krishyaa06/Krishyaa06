@@ -64,6 +64,36 @@ const krishyaa = {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
+## 🤖 Discord Bots
+
+<p align="center">
+  <a href="https://krishyaa06.github.io/prism-bots-panel/"><img src="https://img.shields.io/badge/Prism_Bots_Panel-Invite_·_Dashboard_·_Premium-6C63FF?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+
+**Free music bots** — SoundCloud search, 24/7 radio, audio filters and a web dashboard. Free forever, 💎 Premium from ₹99/month.
+
+<table>
+<tr>
+<td align="center" width="20%"><a href="https://github.com/krishyaa06/cosmicmix-dj-bot"><img src="https://raw.githubusercontent.com/krishyaa06/cosmicmix-dj-bot/main/assets/logo.png" width="64" alt="CosmicMix DJ" /><br /><b>CosmicMix</b></a><br /><sub>Futuristic DJ for your galaxy of friends.</sub></td>
+<td align="center" width="20%"><a href="https://github.com/krishyaa06/echoarena-player"><img src="https://raw.githubusercontent.com/krishyaa06/echoarena-player/main/assets/logo.png" width="64" alt="EchoArena Player" /><br /><b>EchoArena</b></a><br /><sub>Low-latency music for gaming squads and voice lobbies.</sub></td>
+<td align="center" width="20%"><a href="https://github.com/krishyaa06/midnight-vibes-bot"><img src="https://raw.githubusercontent.com/krishyaa06/midnight-vibes-bot/main/assets/logo.png" width="64" alt="Midnight Vibes" /><br /><b>Midnight</b></a><br /><sub>Dark, cinematic listening for late-night communities.</sub></td>
+<td align="center" width="20%"><a href="https://github.com/krishyaa06/neonpulse-music-bot"><img src="https://raw.githubusercontent.com/krishyaa06/neonpulse-music-bot/main/assets/logo.png" width="64" alt="NeonPulse" /><br /><b>NeonPulse</b></a><br /><sub>Neon-charged streaming with full music control.</sub></td>
+<td align="center" width="20%"><a href="https://github.com/krishyaa06/royalwave-dj-bot"><img src="https://raw.githubusercontent.com/krishyaa06/royalwave-dj-bot/main/assets/logo.png" width="64" alt="RoyalWave DJ" /><br /><b>RoyalWave</b></a><br /><sub>Luxury DJ with premium queue and playback controls.</sub></td>
+</tr>
+</table>
+
+**Prism Protocol toolkit** — private bots that run our own [Discord server](https://dc.gg/prismprotocol).
+
+<table>
+<tr>
+<td align="center" width="33%"><a href="https://github.com/krishyaa06/roomtone-discord-music-bot"><img src="https://raw.githubusercontent.com/krishyaa06/roomtone-discord-music-bot/main/assets/logo.png" width="56" alt="Roomtone" /><br /><b>Roomtone</b></a><br /><sub>Shared listening sessions</sub></td>
+<td align="center" width="33%"><a href="https://github.com/krishyaa06/prism-sentinel"><img src="https://raw.githubusercontent.com/krishyaa06/prism-sentinel/main/assets/logo.png" width="56" alt="Prism Sentinel" /><br /><b>Prism Sentinel</b></a><br /><sub>Moderation · XP · tickets</sub></td>
+<td align="center" width="33%"><a href="https://github.com/krishyaa06/prism-arena"><img src="https://raw.githubusercontent.com/krishyaa06/prism-arena/main/assets/logo.png" width="56" alt="Prism Arena" /><br /><b>Prism Arena</b></a><br /><sub>Hackathons · judging</sub></td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+
 ## 🚀 Featured Projects
 
 <table>
