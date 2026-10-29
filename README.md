@@ -237,12 +237,12 @@ Live crypto dashboard for the top 25 coins with a private BTC/ETH/SOL portfolio,
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-## 🧰 Prism Toolbox — 50 Open-Source Tools
+## 🧰 Prism Toolbox — 53 Open-Source Tools
 
-<p align="center"><b>50 small, polished tools for developers and vibe coders.</b> Every web tool runs fully in the browser on GitHub Pages; every CLI has zero dependencies, tests and CI.</p>
+<p align="center"><b>53 small, polished tools for developers and vibe coders.</b> Every web tool runs fully in the browser on GitHub Pages; every CLI has zero dependencies, tests and CI.</p>
 
 <details open>
-<summary><b>🧪 Dev Tools</b> · 16 tools</summary>
+<summary><b>🧪 Dev Tools</b> · 17 tools</summary>
 
 Browser-based utilities — 100% local, no sign-up
 
@@ -251,6 +251,7 @@ Browser-based utilities — 100% local, no sign-up
 | 🛰️ [Prism API Tester](https://github.com/krishyaa06/prism-api-tester) | Lightweight Postman in your browser | [Open →](https://krishyaa06.github.io/prism-api-tester/) |
 | ✍️ [Prism Commit Crafter](https://github.com/krishyaa06/prism-commit-crafter) | Conventional Commits · Lint · Semver | [Open →](https://krishyaa06.github.io/prism-commit-crafter/) |
 | ⏱️ [Prism Cron Builder](https://github.com/krishyaa06/prism-cron-builder) | Build · Explain · Preview next runs | [Open →](https://krishyaa06.github.io/prism-cron-builder/) |
+| 💬 [Prism Embed Builder](https://github.com/krishyaa06/prism-embed-builder) | Discord embeds & webhooks · Live preview | [Open →](https://krishyaa06.github.io/prism-embed-builder/) |
 | 🔀 [Prism Diff Viewer](https://github.com/krishyaa06/prism-diff-viewer) | Split · Unified · Word-level · Patch | [Open →](https://krishyaa06.github.io/prism-diff-viewer/) |
 | 🔣 [Prism Encode Kit](https://github.com/krishyaa06/prism-encode-kit) | Base64 · URL · Hex · HTML · SHA-256 | [Open →](https://krishyaa06.github.io/prism-encode-kit/) |
 | 🔐 [Prism Env Diff](https://github.com/krishyaa06/prism-env-diff) | Compare · Lint · Generate .env.example | [Open →](https://krishyaa06.github.io/prism-env-diff/) |
@@ -313,7 +314,7 @@ For focus sessions, hackathons and events
 </details>
 
 <details open>
-<summary><b>⌨️ CLI Tools</b> · 19 tools</summary>
+<summary><b>⌨️ CLI Tools</b> · 21 tools</summary>
 
 Zero-dependency Node.js CLIs — run with `npx github:krishyaa06/<repo>`
 
@@ -333,10 +334,12 @@ Zero-dependency Node.js CLIs — run with `npx github:krishyaa06/<repo>`
 | 🧪 [Prism Mock API](https://github.com/krishyaa06/prism-mock-api) | Fake REST API from a JSON file | `mockapi` |
 | 🏃 [Prism npm Scripts](https://github.com/krishyaa06/prism-npm-scripts) | Fuzzy-run package.json scripts | `nr` |
 | 🔌 [Prism Port Killer](https://github.com/krishyaa06/prism-port-killer) | Free busy ports in one command | `portkill` |
+| 🩺 [Prism Repo Health](https://github.com/krishyaa06/prism-repo-health) | Grade any repo's health A–F | `repo-health` |
 | 📝 [Prism README Lint](https://github.com/krishyaa06/prism-readme-lint) | Lint & grade your README | `readmelint` |
 | 🔑 [Prism Secret Scan](https://github.com/krishyaa06/prism-secret-scan) | Find leaked keys in code & history | `secretscan` |
 | 📦 [Prism Size Check](https://github.com/krishyaa06/prism-size-check) | Bundle size budgets for CI | `sizecheck` |
 | 📌 [Prism TODO Scanner](https://github.com/krishyaa06/prism-todo-scanner) | Find every TODO / FIXME | `todos` |
+| 📡 [Prism Uptime](https://github.com/krishyaa06/prism-uptime) | Uptime monitor + Discord alerts | `uptime` |
 | 🛡️ [Prism Vibe Guard](https://github.com/krishyaa06/prism-vibe-guard) | Lint AI leftovers in your diff | `vibeguard` |
 
 </details>
